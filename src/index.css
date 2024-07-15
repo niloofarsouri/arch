@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  color: white;
+}
+
+/* MY CSS */
+
+.second-slide {
+  width: 55%;
+  color: white;
+  opacity: 100%;
+  margin: 5rem auto;
+}
+
+.second-slide p {
+  text-align: justify;
+}
+
+
+/* MY CSS */

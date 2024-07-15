@@ -1,0 +1,18 @@
+.final {
+    background-color: #220C08;
+    width: 100%;
+    height: 80px;
+}
+
+
+
+.final--sub2 img {
+    width: 60px;
+    height: 30px;
+    padding: 0 10px;
+}
+
+
+.nav a {
+    color: white;
+}

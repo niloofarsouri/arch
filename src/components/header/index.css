@@ -1,0 +1,61 @@
+body {
+    background-color: #220C08;
+    width: 100%;
+    margin: 0;
+}
+
+#root {
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+/* background header */
+
+.main {
+    width: 100%;
+    height: 900px;
+    position: relative;
+    top: 0;
+}
+
+.header-sky {
+    background-image: url(./sky-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+    position: absolute;
+}
+
+.header-town {
+    width: 100%;
+    height: 700px;
+    background-image: url(./buildings.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 190px;
+}
+
+.arch {
+    width: 100%;
+    /* color: #220C08; */
+    color: white;
+    font-size: 200px;
+    opacity: .3;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 112px;
+}
+
+
+/* background header */
+
+.main-header {
+    display: flex;}
+
+
+/* header */
