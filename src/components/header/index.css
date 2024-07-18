@@ -21,7 +21,7 @@ body {
 }
 
 .header-sky {
-    background-image: url(./sky-2.PNG);
+    background-image: url(./skyyy.PNG);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -32,7 +32,7 @@ body {
 .header-town {
     width: 100%;
     height: 700px;
-    background-image: url(./buildings.PNG);
+    background-image: url(./buildingsCopy.PNG);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
